@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
 import HeroBillboardScroll from '@/components/sections/hero/HeroBillboardScroll';
@@ -150,7 +150,6 @@ export default function Home() {
               role: "Marketing Director",
               company: "TechCorp Inc",
               rating: 5,
-              content: "Exceptional dental care! The team at DentalCare Plus made my visit comfortable and stress-free. Dr. Johnson's expertise and gentle approach are truly remarkable.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763394966273-okpf0col.jpg",
               imageAlt: "Jennifer Smith portrait"
             },
@@ -160,7 +159,6 @@ export default function Home() {
               role: "Business Owner",
               company: "Local Restaurant",
               rating: 5,
-              content: "Outstanding service from start to finish. The modern facility and professional staff create a welcoming environment. Highly recommend for all dental needs.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763394966897-1b69xw63.jpg",
               imageAlt: "Robert Martinez portrait"
             },
@@ -170,7 +168,6 @@ export default function Home() {
               role: "Teacher",
               company: "Elementary School",
               rating: 5,
-              content: "The best dental experience I've ever had! The staff is incredibly caring and Dr. Chen's orthodontic work transformed my smile. Thank you DentalCare Plus!",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763394967512-ox8r45io.jpg",
               imageAlt: "Lisa Thompson portrait"
             },
@@ -180,7 +177,6 @@ export default function Home() {
               role: "Engineer",
               company: "Tech Solutions",
               rating: 5,
-              content: "Professional, efficient, and genuinely caring. The emergency dental service saved my weekend when I had a dental issue. Grateful for their excellent care.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763394968007-io23n74c.jpg",
               imageAlt: "David Wilson portrait"
             },
@@ -190,7 +186,6 @@ export default function Home() {
               role: "Nurse",
               company: "City Hospital",
               rating: 5,
-              content: "As a healthcare professional myself, I appreciate the attention to detail and patient care at DentalCare Plus. Dr. Rodriguez provides excellent preventive care.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763394968598-vkkmsu6d.jpg",
               imageAlt: "Maria Garcia portrait"
             }
